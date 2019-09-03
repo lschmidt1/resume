@@ -1,7 +1,7 @@
 [
     {
       "date": "2017",
-      "diplome": "Android Fundamentals",
+      "diplome": "React Fundamentals",
       "place": "Pluralsight"
     },
     {
@@ -11,22 +11,12 @@
     },
     {
       "date": "2015",
-      "diplome": "Scrum Fundamental & Master certified",
-      "place": "ScrumAlliance"
+      "diplome": "Javascript Intermediate Programmer",
+      "place": "IT Education Argentina"
     },
     {
-      "date": "2010",
-      "diplome": "JDE E1 Implementation Champion Skills Assesment",
-      "place": "Oracle University"
-    },     
-    {
-      "date": "2005 - Incomplete",
-      "diplome": "Information Systems Engineering",
-      "place": "UTN"
-    },
-    {
-      "date": "1998 - 2004",
-      "diplome": "Electromechanical and Electronic Technician",
-      "place": "Escuela PHILIPS"
+      "date": "2013",
+      "diplome": "Superior Technical Programmer",
+      "place": "National Technological University (UTN Argentina)"
     }
   ]

@@ -22,21 +22,10 @@ export default class Skills extends Component {
                 <i className="devicon-react-original icon"></i>
                 <div className="text-icon font-weight-bold">REACT</div>
               </div>            
-
-            <div className="logo-skill flex-center">
-                  <i className="devicon-python-plain icon"></i>
-                  <div className="text-icon font-weight-bold">PYTHON</div>
-              </div>
-
               <div className="logo-skill flex-center">
                   <i className="devicon-go-plain icon"></i>
                   <div className="text-icon font-weight-bold">GO</div>
               </div>
-
-              <div className="logo-skill flex-center">
-                  <i className="devicon-android-plain icon"></i>
-                  <div className="text-icon font-weight-bold">ANDROID</div>
-              </div>              
 
             <div className="logo-skill flex-center">
                 <img className="logo-image icon" src={process.env.PUBLIC_URL+'/assets/img/flutter_logo.svg'} alt="flutter"/>
@@ -61,52 +50,7 @@ export default class Skills extends Component {
               <div className="logo-skill flex-center">
                 <i className="devicon-visualstudio-plain icon"></i>
                 <div className="text-icon font-weight-bold">VISUAL STUDIO</div>
-              </div>
-
-              <div className="logo-skill flex-center">
-                <i className="devicon-linux-plain icon"></i>
-                <div className="text-icon font-weight-bold">LINUX</div>
-              </div>
-
-              <div className="logo-skill flex-center">
-                <img className="logo-image icon" src={process.env.PUBLIC_URL+'/assets/img/sap_logo.svg'} alt="sap"/>
-                <div className="text-icon font-weight-bold">SAP</div>
-              </div>
-
-              <div className="logo-skill flex-center">
-                <i className="devicon-oracle-original icon"></i>
-                <div className="text-icon font-weight-bold">ORACLE</div>
-              </div>                  
-
-              <div className="logo-skill flex-center">
-                  <i className="devicon-docker-plain icon"></i>
-                  <div className="text-icon font-weight-bold">DOCKER</div>
-              </div>
-
-              <div className="logo-skill flex-center">
-                  <i className="devicon-nginx-original icon"></i>
-                  <div className="text-icon font-weight-bold">NGINX</div>
-              </div>              
-
-              <div className="logo-skill flex-center">
-                  <img className="logo-image" src={process.env.PUBLIC_URL+'/assets/img/dialogflow_logo.svg'} alt="dialogflow"/>
-                  <div className="text-icon font-weight-bold">DIALOGFLOW</div>
-              </div>
-
-              <div className="logo-skill flex-center">
-                  <img className="logo-image" src={process.env.PUBLIC_URL+'/assets/img/jenkins_logo.svg'} alt="jenkins"/>
-                  <div className="text-icon font-weight-bold">JENKINS</div>
-              </div>
-
-              <div className="logo-skill flex-center">
-                  <img className="logo-image" src={process.env.PUBLIC_URL+'/assets/img/sonarqube_logo.svg'} alt="sonarqube"/>
-                  <div className="text-icon font-weight-bold">SONARQUBE</div>
-              </div>                  
-
-              <div className="logo-skill flex-center">
-                  <i className="fa fa-sync-alt icon"></i>
-                  <div className="text-icon font-weight-bold">AGILE METHODOLOGIES</div>
-              </div>
+              </div>       
 
               <div className="logo-skill flex-center">
                   <i className="fas fa-project-diagram icon"></i>

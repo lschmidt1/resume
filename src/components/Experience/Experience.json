@@ -3,35 +3,21 @@
         "date": "Oct 2018 - Current",
         "company": "gA",
         "project": "Digital AMS", 
-        "position": "Arquitect, Fullstack Lead, Data Science",
-        "tools": ["React", "Go", "Python", "Docker", "Nginx", "Gunicorn", "Dremio", "Superset", "Process Gold", "SQL Server","Jenkins","Sonarqube"]
+        "position": "Frontend developer/designer, Backend developer",
+        "tools": ["React", "Go", "Dremio", "Superset", "Process Gold", "SQL Server"]
     },
     {
         "date": "Jul 2018 - Current",
         "company": "gA",
         "project": "Back to Fun",
-        "position": "Arquitect, Fullstack Lead",
-        "tools": ["React", "Go", "Docker", "Nginx", "Superset", "SQL Server","Jenkins","Sonarqube"]
+        "position": "Frontend Developer",
+        "tools": ["React","Superset", "SQL Server"]
     },
     {
-        "date": "Apr 2015 - Jul 2018",
+        "date": "Jul 2017 - Jul 2018",
         "company": "gA",
-        "project": "DSI Infrastructure Team",
-        "position": "Infrastructure Consultant",
-        "tools": ["DSI", "Windows server", "SQL Server", "Oracle Database"]
-    },
-    {
-        "date": "Jan 2013 - Apr 2015",
-        "company": "gA",
-        "project": "Johnson & Johnson Consumer - Migrations to ECC 6.0",
-        "position": "SAP Consultant",
-        "tools": ["ECC 6.0"]
-    },
-    {
-        "date": "Mar 2007 - Jan 2013",
-        "company": "gA",
-        "project": "Johnson & Johnson Medical - Latinoamerica enhacements",
-        "position": "JDE E1 Proyect Lead",
-        "tools": ["E1 Xe to 9.1", "Oracle Database"]
+        "project": "DSI Development Team",
+        "position": "IT Consultant, Software designer",
+        "tools": ["DSI", "Windows server", "SQL Server"]
     }
 ]

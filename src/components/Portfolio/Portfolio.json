@@ -5,7 +5,7 @@
       "altText": "ams-digital",
       "title": "AMS Digital",
       "description": "Increase the productivity of AMS consultants with recommendations, chatbot, dashboards and intelligent search",
-      "tools": ["React", "Go", "Python", "Docker", "Nginx", "Gunicorn", "Dremio", "Superset", "Process Gold", "SQL Server"],
+      "tools": ["React", "Go", "Dremio", "Superset", "Process Gold", "SQL Server"],
       "link": "https://ams.grupoassa.com",
       "github": ""
     },
@@ -18,25 +18,5 @@
       "tools": ["React", "Go", "Docker", "Nginx", "Superset", "SQL Server"],
       "link": "https://btf.grupoassa.com",
       "github": ""
-    },
-    {
-        "video": "",
-        "src": "/assets/img/data-science.png",
-        "altText": "data-science",
-        "title": "Data Science",
-        "description": "Multiple Data Science solutions to demonstrate the potential to the clients",
-        "tools": ["Python", "PyTorch"],
-        "link": "",
-        "github": "https://github.com/wschroederga/data-science"
-    },    
-    {
-        "video": "/assets/img/chatbot.mp4",
-        "src": "",
-        "altText": "chatbot",
-        "title": "Chatbot",
-        "description": "Virtual assistant for consultants and users in multiple tasks and with multiple integrations",
-        "tools": ["Dialogflow", "Go", "JDE", "LDAP", "SQL Server", "Jira", "Servicenow"],
-        "link": "",
-        "github": "https://github.com/wschroederga/dialogflow-go-client"
     }
   ]

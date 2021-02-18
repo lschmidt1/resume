@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 import {
   Collapse,
   Navbar,
@@ -6,8 +6,7 @@ import {
   Nav,
   NavItem,
   NavLink,
- } from 'reactstrap';
-
+} from "reactstrap";
 
 export default class NavBar extends React.Component {
   constructor(props) {
@@ -15,39 +14,72 @@ export default class NavBar extends React.Component {
 
     this.toggle = this.toggle.bind(this);
     this.state = {
-      isOpen: false
+      isOpen: false,
     };
   }
 
-
   toggle() {
     this.setState({
-      isOpen: !this.state.isOpen
+      isOpen: !this.state.isOpen,
     });
   }
   render() {
     return (
       <div>
-        <Navbar className="fixed-bottom bg-grey font-weight-bold d-flex justify-content-center" expand="md">
-            <NavbarToggler onClick={this.toggle}>
-               <i className="fa fa-bars fa-lg txt-green"></i>
-            </NavbarToggler>
+        <Navbar
+          className="fixed-bottom bg-grey font-weight-bold d-flex justify-content-center"
+          expand="md"
+        >
+          <NavbarToggler onClick={this.toggle}>
+            <i className="fa fa-bars fa-lg txt-green"></i>
+          </NavbarToggler>
           <Collapse isOpen={this.state.isOpen} navbar>
             <Nav className="mx-auto" navbar>
               <NavItem>
-                <NavLink className="text-center ml-2 mr-2" href="#skills" onClick={this.toggle}>Skills</NavLink>
+                <NavLink
+                  className="text-center ml-2 mr-2"
+                  href="#skills"
+                  onClick={this.toggle}
+                >
+                  Skills
+                </NavLink>
               </NavItem>
               <NavItem>
-                <NavLink className="text-center ml-2 mr-2" href="#portfolio" onClick={this.toggle}>Portfolio</NavLink>
+                <NavLink
+                  className="text-center ml-2 mr-2"
+                  href="#experience"
+                  onClick={this.toggle}
+                >
+                  Experience
+                </NavLink>
               </NavItem>
               <NavItem>
-                <NavLink className="text-center ml-2 mr-2" href="#studies" onClick={this.toggle}>Studies</NavLink>
+                <NavLink
+                  className="text-center ml-2 mr-2"
+                  href="#portfolio"
+                  onClick={this.toggle}
+                >
+                  Portfolio
+                </NavLink>
               </NavItem>
               <NavItem>
-                <NavLink className="text-center ml-2 mr-2" href="#experience" onClick={this.toggle}>Experience</NavLink>
+                <NavLink
+                  className="text-center ml-2 mr-2"
+                  href="#studies"
+                  onClick={this.toggle}
+                >
+                  Studies
+                </NavLink>
               </NavItem>
+
               <NavItem>
-                <NavLink className="text-center  ml-2 mr-2" href="#contact" onClick={this.toggle}>Contact</NavLink>
+                <NavLink
+                  className="text-center  ml-2 mr-2"
+                  href="#contact"
+                  onClick={this.toggle}
+                >
+                  Contact
+                </NavLink>
               </NavItem>
             </Nav>
           </Collapse>

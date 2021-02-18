@@ -9,8 +9,8 @@ export default class Contact extends Component {
           <div className="container-contact bg-grey flex-center">
             <h5 className="font-weight-bold txt-green">Address</h5>
             <a className="txt-white text-center mb-4" href="https://maps.google.com/?q=Remedios+de+Escalada+de+San+Martín+1576,+B1602EKB+Florida,+Buenos+Aires" target='_blank' rel="noopener noreferrer">
-              Ricardo Gutierrez<br />
-              1440, Olivos
+              Nicolás Avellaneda<br />
+              171, San Isidro
             </a>
             <h5 className="font-weight-bold txt-green">Phone</h5>
             <a className="txt-white text-center mb-4" href="tel:+5491141969134">+54 (911) 4196-9134</a>
@@ -25,13 +25,13 @@ export default class Contact extends Component {
             <p>
               <span className="font-weight-bold">Interests</span><br />
               Web development<br />
-              Mobile Solutions<br />
-              Software architecture<br />
+              UX/UI<br />
+              Mobile Solutions<br /><br />
           </p>
             <p>
               <span className="font-weight-bold">Languages</span><br />
               Spanish (Native)<br />
-              English (Advance)<br />
+              English (Advanced)<br />
           </p>
           </div>
         </section>

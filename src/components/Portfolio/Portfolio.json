@@ -1,11 +1,21 @@
 [
+  {
+    "video": "",
+    "src": "/assets/img/lynx.png",
+    "altText": "Lynx",
+    "title": "Lynx",
+    "description": "Rework of an old platform to manage large corporate sale events (Walmart, Amazon, etc)",
+    "tools": ["React"],
+    "link": "",
+    "github": ""
+  },
     {
       "video": "",
-      "src": "/assets/img/amsdigital.png",
-      "altText": "ams-digital",
-      "title": "AMS Digital",
-      "description": "Increase the productivity of AMS consultants with recommendations, chatbot, dashboards and intelligent search",
-      "tools": ["React", "Go", "Dremio", "Superset", "Process Gold", "SQL Server"],
+      "src": "/assets/img/MAiDA.png",
+      "altText": "MAiDA",
+      "title": "MAiDA",
+      "description": "Increase the productivity of AMS consultants with recommendations, notifications system, chatbot, dashboards and intelligent search",
+      "tools": ["React", "Go"],
       "link": "https://ams.grupoassa.com",
       "github": ""
     },
@@ -14,8 +24,8 @@
       "src": "/assets/img/btf.png",
       "altText": "back-to-fun",
       "title": "Back to Fun",
-      "description": "Employees tasks tracking and motivation using gamification tools",
-      "tools": ["React", "Go", "Docker", "Nginx", "Superset", "SQL Server"],
+      "description": "Employees tasks tracking motivation and productivity using gamification and community integration tools",
+      "tools": ["React"],
       "link": "https://btf.grupoassa.com",
       "github": ""
     }

@@ -1,8 +1,23 @@
 [
     {
-      "date": "2017",
-      "diplome": "React Fundamentals",
-      "place": "Pluralsight"
+      "date": "2020",
+      "diplome": "Node JS Intermediate Course",
+      "place": "UTN Argentina"
+    },
+    {
+      "date": "2020",
+      "diplome": "React JS Intermediate Course",
+      "place": "UTN Argentina"
+    },
+    {
+      "date": "2019",
+      "diplome": "Scrum Fundamentals Certified (SFC)",
+      "place": "Scrum Alliance"
+    },
+    {
+      "date": "2018",
+      "diplome": "React - The complete guide",
+      "place": "Udemy"
     },
     {
       "date": "2016",
@@ -12,11 +27,11 @@
     {
       "date": "2015",
       "diplome": "Javascript Intermediate Programmer",
-      "place": "IT Education Argentina"
+      "place": "Educación IT Argentina"
     },
     {
       "date": "2013",
       "diplome": "Superior Technical Programmer",
-      "place": "National Technological University (UTN Argentina)"
+      "place": "UTN Argentina"
     }
   ]

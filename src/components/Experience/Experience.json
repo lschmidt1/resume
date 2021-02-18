@@ -1,20 +1,27 @@
 [
     {
-        "date": "Oct 2018 - Current",
-        "company": "gA",
-        "project": "Digital AMS", 
-        "position": "Frontend developer/designer, Backend developer",
-        "tools": ["React", "Go", "Dremio", "Superset", "Process Gold", "SQL Server"]
+        "date": "Jul 2020 - present",
+        "company": "JOHNSON & JOHNSON",
+        "project": "Lynx", 
+        "position": "Frontend developer and technical lead, UI Design",
+        "tools": ["React"]
     },
     {
-        "date": "Jul 2018 - Current",
+        "date": "Nov 2019 - Jul 2020",
         "company": "gA",
-        "project": "Back to Fun",
-        "position": "Frontend Developer",
-        "tools": ["React","Superset", "SQL Server"]
+        "project": "Back To Fun", 
+        "position": "Frontend developer",
+        "tools": ["React"]
     },
     {
-        "date": "Jul 2017 - Jul 2018",
+        "date": "Oct 2018 - Nov 2019",
+        "company": "gA",
+        "project": "MAiDA",
+        "position": "Frontend Developer, Backend Developer",
+        "tools": ["React","Go Lang"]
+    },
+    {
+        "date": "Jul 2017 - Oct 2018",
         "company": "gA",
         "project": "DSI Development Team",
         "position": "IT Consultant, Software designer",

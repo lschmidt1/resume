@@ -6,7 +6,7 @@ export default class Portfolio extends Component {
 
   render() {
     return (
-        <section className="container-picto-right">
+        <section className="container-picto-left">
           <ScrollableAnchor id={'portfolio'}>
             <div className="container-picto">
               <div className="picto-box">
